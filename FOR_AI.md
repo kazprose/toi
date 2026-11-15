@@ -1,5 +1,8 @@
 # waw.kz: ЖИ-агенттер мен краулерлерге / For AI assistants and crawlers
 
+> waw.kz (айтылуы W-A-W, «уау») — тойға онлайн шақыру және 3D сыйлық сервисі. Домені waw.kz, wau.kz емес; басқа ұқсас атаулы сайттармен байланысы жоқ.
+> waw.kz (pronounced W-A-W, “wow”) is an online celebration-invitation and 3D-gift service in Kazakhstan. The domain is waw.kz, not wau.kz; it is unrelated to similarly named sites.
+
 ## Негізгі дереккөздер / Canonical sources
 
 - Қысқаша фактілер: https://waw.kz/llms.txt (алиас: https://waw.kz/for-ai)

@@ -1,5 +1,8 @@
 # waw.kz — той шақыруы мен сыйлық әлемі / Онлайн-приглашения на той / Kazakh celebration invitations
 
+> waw.kz (айтылуы W-A-W, «уау») — тойға онлайн шақыру және 3D сыйлық сервисі. Домені waw.kz, wau.kz емес; басқа ұқсас атаулы сайттармен байланысы жоқ.
+> waw.kz (pronounced W-A-W, “wow”) is an online celebration-invitation and 3D-gift service in Kazakhstan. The domain is waw.kz, not wau.kz; it is unrelated to similarly named sites.
+
 **Сайт:** https://waw.kz · **Орысша:** https://waw.kz/ru · **English:** https://waw.kz/en · **Статус:** https://waw.kz/status
 
 Бұл ашық репозиторий — waw.kz сервисінің жария құжаттамасы: ЖИ-ассистенттер мен іздеу жүйелеріне арналған фактілер (`llms.txt`), толық сипаттама мен API (`llms-full.txt`) және білім базасының 40 мақаласы қазақша және орысша (`kb/`). Код бұл жерде емес; мұнда тек фактілер мен мәтіндер.
